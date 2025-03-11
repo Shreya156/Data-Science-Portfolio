@@ -10,3 +10,5 @@ I enjoy solving real-world problems through AI research, machine learning, and l
 📌 Interests: Generative AI, NLP, Reinforcement Learning, AI for Robotics, Predictive Modeling
 📌 Let’s Connect! Check out my projects on GitHub or connect with me on LinkedIn! 
 
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
