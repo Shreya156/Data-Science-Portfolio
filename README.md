@@ -7,7 +7,9 @@ With experience in Python, SQL, TensorFlow, PyTorch, and NLP frameworks, I have 
 I enjoy solving real-world problems through AI research, machine learning, and large-scale data analytics. Whether it's developing AI-powered solutions for robotics, optimizing LLM models for enhanced performance, or creating interactive data visualizations, I’m always eager to explore new technologies and push the boundaries of data science.
 
 📌 Tech Stack: Python, SQL, TensorFlow, PyTorch, Hugging Face, LangChain, Scikit-Learn, AWS, Power BI
+
 📌 Interests: Generative AI, NLP, Reinforcement Learning, AI for Robotics, Predictive Modeling
+
 📌 Let’s Connect! Check out my projects on GitHub or connect with me on LinkedIn! 
 
 
